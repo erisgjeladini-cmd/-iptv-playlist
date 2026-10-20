@@ -455,6 +455,8 @@ https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="TakeshisCastle.de@DACH" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" group-title="DE/AT/CH | Comedy",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+#EXTINF:-1 tvg-id="TELE5.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/500px-Tele_5_Logo_2021.svg.png" group-title="DE/AT/CH | Undefined",TELE 5 (576p)
+https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:-1 tvg-id="TeleZuri.ch@SD" tvg-logo="https://i.imgur.com/f8kzNT1.png" group-title="DE/AT/CH | Undefined",TeleZuri (720p)
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
 #EXTINF:-1 tvg-id="teltOwkanal.de@SD" tvg-logo="https://i.imgur.com/G0cImlU.png" group-title="DE/AT/CH | Undefined",teltOwkanal (1080p)
